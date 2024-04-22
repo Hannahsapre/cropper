@@ -10,13 +10,24 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/material": "^5.15.15",
     "axios": "^1.6.8",
     "file-saver": "^2.0.5",
+    "formik": "^2.4.5",
     "html2canvas": "^1.4.1",
+    "localforage": "^1.10.0",
+    "lodash": "^4.17.21",
+    "match-sorter": "^6.3.4",
     "react": "^18.2.0",
+    "react-advanced-cropper": "^0.19.6",
     "react-cropper": "^2.3.3",
     "react-dom": "^18.2.0",
-    "react-easy-crop": "^5.0.6"
+    "react-router-dom": "^6.22.3",
+    "sort-by": "^1.2.0",
+    "yup": "^1.4.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
